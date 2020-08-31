@@ -9,4 +9,4 @@ I'm a Full Stack developer who's played around with React, Angular, React-Native
 
 Please do reach out if you'd like to contribute to Feedbackr, or just have a tech friendly chat. ✌️
 
->>>>>>>>>>>>>>>  ***[LinkedIn](https://www.linkedin.com/in/rushabhm2/)***  <<<<<<<<<<<<<<<
+ ->>>>>>>>>>>>>>>  ***[LinkedIn](https://www.linkedin.com/in/rushabhm2/)***  <<<<<<<<<<<<<<<-
