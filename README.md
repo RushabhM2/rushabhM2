@@ -1,4 +1,4 @@
-![Intro](https://www.canva.com/design/DAEGdaWlZTQ/A7MMSQD2AQ8zjFRb0yLASQ/view?utm_content=DAEGdaWlZTQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![Intro](https://media.giphy.com/media/QXUc28aPXHKIJxXs80/giphy.gif)
 
 I'm a Full Stack developer who's played around with React, Angular, React-Native, SASS, NodeJS, Express, SQL, MongoDB and a bunch of other technologies.
 
@@ -9,4 +9,4 @@ I'm a Full Stack developer who's played around with React, Angular, React-Native
 
 Please do reach out if you'd like to contribute to Feedbackr, or just have a tech friendly chat. ✌️
 
-***[LinkedIn](https://www.linkedin.com/in/rushabhm2/)***
+>>>>>>>>>>>>>>>  ***[LinkedIn](https://www.linkedin.com/in/rushabhm2/)***  <<<<<<<<<<<<<<<
