@@ -1,4 +1,4 @@
-
+![Intro](https://www.canva.com/design/DAEGdaWlZTQ/A7MMSQD2AQ8zjFRb0yLASQ/view?utm_content=DAEGdaWlZTQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 I'm a Full Stack developer who's played around with React, Angular, React-Native, SASS, NodeJS, Express, SQL, MongoDB and a bunch of other technologies.
 
